@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="selling" size="5.000000 2.848789" />
+    <ImageTarget name="maxresdefault" size="5.000000 2.812500" />
+    <ImageTarget name="ISqtvx" size="5.000000 3.741611" />
+    <ImageTarget name="image-0" size="5.000000 3.333333" />
+    <ImageTarget name="hab-house" size="5.000000 3.750000" />
+    <ImageTarget name="Alison" size="1.000000 0.730000" />
+    <ImageTarget name="Carriage" size="1.000000 0.750000" />
+    <ImageTarget name="920x920" size="1.000000 0.748913" />
+    <ImageTarget name="vuforia_DSCN9318_Physics_building" size="1.000000 0.750000" />
+    <ImageTarget name="vuforia_DSCN9319_Pao_crosswalk" size="1.000000 0.750000" />
+  </Tracking>
+</QCARConfig>

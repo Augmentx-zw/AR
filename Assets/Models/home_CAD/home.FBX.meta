@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: 6d18231781bce6f4fa9130bfa2d3baac
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Layer:--2PAV. AZULEJO
+    100004: "Layer:--2PAV. CORRIM\xC3O"
+    100006: Layer:--2PAV. LAJE
+    100008: Layer:--2PAV. MADEIRA 15X15
+    100010: Layer:--2PAV. PAREDES EXTERNAS
+    100012: Layer:--2PAV. PAREDES INTERNAS
+    100014: Layer:--2PAV. PISO EXTERNO
+    100016: Layer:--2PAV. PISO INERNO
+    100018: Layer:--2PAV. REVESTIMENTO INTERNO
+    100020: Layer:--GRAMA
+    100022: Layer:--TELHADO NIVEL 1 MADEIRA
+    100024: Layer:--TELHADO NIVEL 1 MADEIRA 1
+    100026: Layer:--TELHADO NIVEL 1 TELHA
+    100028: Layer:--TELHADO NIVEL 1 TELHA 1
+    100030: Layer:--TELHADO NIVEL 1 TELHA 2
+    100032: Layer:--TELHADO NIVEL 1 TELHA 3
+    100034: Layer:--TELHADO NIVEL 2 MADEIRA
+    100036: Layer:--TELHADO NIVEL 2 MADEIRA 1
+    100038: Layer:--TELHADO NIVEL 2 TELHAS
+    100040: Layer:--TELHADO NIVEL 2 TELHAS 1
+    100042: "Layer:--TELHADO PAREDES OIT\xC3O"
+    100044: Layer:--TERREO AZULEJO
+    100046: "Layer:--TERREO CORRIM\xC3O"
+    100048: Layer:--TERREO ESCADA
+    100050: "Layer:--TERREO FUNDA\xC7\xC3O"
+    100052: Layer:--TERREO LAJE
+    100054: Layer:--TERREO PAREDES EXTERNAS
+    100056: Layer:--TERREO PAREDES INTERNAS
+    100058: Layer:--TERREO PISO EXTERNO
+    100060: Layer:--TERREO PISO INTERNO
+    100062: Layer:--TERREO REVESTIMENTO INERNO
+    100064: Layer:JANELAS
+    100066: Layer:JANELAS 1
+    100068: Layer:JANELAS 2
+    100070: Layer:JANELAS 3
+    100072: Layer:JANELAS 4
+    100074: Layer:MARMORE DAS JANELAS
+    100076: Layer:portas
+    100078: Layer:portas 1
+    100080: Layer:trinco
+    100082: Layer:trinco 1
+    100084: Layer:VIDROS
+    100086: Layer:VIDROS 1
+    100088: Layer:VIDROS 2
+    100090: Layer:VIDROS 3
+    400000: //RootNode
+    400002: Layer:--2PAV. AZULEJO
+    400004: "Layer:--2PAV. CORRIM\xC3O"
+    400006: Layer:--2PAV. LAJE
+    400008: Layer:--2PAV. MADEIRA 15X15
+    400010: Layer:--2PAV. PAREDES EXTERNAS
+    400012: Layer:--2PAV. PAREDES INTERNAS
+    400014: Layer:--2PAV. PISO EXTERNO
+    400016: Layer:--2PAV. PISO INERNO
+    400018: Layer:--2PAV. REVESTIMENTO INTERNO
+    400020: Layer:--GRAMA
+    400022: Layer:--TELHADO NIVEL 1 MADEIRA
+    400024: Layer:--TELHADO NIVEL 1 MADEIRA 1
+    400026: Layer:--TELHADO NIVEL 1 TELHA
+    400028: Layer:--TELHADO NIVEL 1 TELHA 1
+    400030: Layer:--TELHADO NIVEL 1 TELHA 2
+    400032: Layer:--TELHADO NIVEL 1 TELHA 3
+    400034: Layer:--TELHADO NIVEL 2 MADEIRA
+    400036: Layer:--TELHADO NIVEL 2 MADEIRA 1
+    400038: Layer:--TELHADO NIVEL 2 TELHAS
+    400040: Layer:--TELHADO NIVEL 2 TELHAS 1
+    400042: "Layer:--TELHADO PAREDES OIT\xC3O"
+    400044: Layer:--TERREO AZULEJO
+    400046: "Layer:--TERREO CORRIM\xC3O"
+    400048: Layer:--TERREO ESCADA
+    400050: "Layer:--TERREO FUNDA\xC7\xC3O"
+    400052: Layer:--TERREO LAJE
+    400054: Layer:--TERREO PAREDES EXTERNAS
+    400056: Layer:--TERREO PAREDES INTERNAS
+    400058: Layer:--TERREO PISO EXTERNO
+    400060: Layer:--TERREO PISO INTERNO
+    400062: Layer:--TERREO REVESTIMENTO INERNO
+    400064: Layer:JANELAS
+    400066: Layer:JANELAS 1
+    400068: Layer:JANELAS 2
+    400070: Layer:JANELAS 3
+    400072: Layer:JANELAS 4
+    400074: Layer:MARMORE DAS JANELAS
+    400076: Layer:portas
+    400078: Layer:portas 1
+    400080: Layer:trinco
+    400082: Layer:trinco 1
+    400084: Layer:VIDROS
+    400086: Layer:VIDROS 1
+    400088: Layer:VIDROS 2
+    400090: Layer:VIDROS 3
+    2100000: No Name
+    2300000: Layer:--2PAV. AZULEJO
+    2300002: "Layer:--2PAV. CORRIM\xC3O"
+    2300004: Layer:--2PAV. LAJE
+    2300006: Layer:--2PAV. MADEIRA 15X15
+    2300008: Layer:--2PAV. PAREDES EXTERNAS
+    2300010: Layer:--2PAV. PAREDES INTERNAS
+    2300012: Layer:--2PAV. PISO EXTERNO
+    2300014: Layer:--2PAV. PISO INERNO
+    2300016: Layer:--2PAV. REVESTIMENTO INTERNO
+    2300018: Layer:--GRAMA
+    2300020: Layer:--TELHADO NIVEL 1 MADEIRA 1
+    2300022: Layer:--TELHADO NIVEL 1 TELHA
+    2300024: Layer:--TELHADO NIVEL 1 TELHA 1
+    2300026: Layer:--TELHADO NIVEL 1 TELHA 3
+    2300028: Layer:--TELHADO NIVEL 2 MADEIRA
+    2300030: Layer:--TELHADO NIVEL 2 MADEIRA 1
+    2300032: Layer:--TELHADO NIVEL 2 TELHAS
+    2300034: Layer:--TELHADO NIVEL 2 TELHAS 1
+    2300036: "Layer:--TELHADO PAREDES OIT\xC3O"
+    2300038: Layer:--TERREO AZULEJO
+    2300040: "Layer:--TERREO CORRIM\xC3O"
+    2300042: Layer:--TERREO ESCADA
+    2300044: "Layer:--TERREO FUNDA\xC7\xC3O"
+    2300046: Layer:--TERREO LAJE
+    2300048: Layer:--TERREO PAREDES EXTERNAS
+    2300050: Layer:--TERREO PAREDES INTERNAS
+    2300052: Layer:--TERREO PISO EXTERNO
+    2300054: Layer:--TERREO PISO INTERNO
+    2300056: Layer:--TERREO REVESTIMENTO INERNO
+    2300058: Layer:JANELAS
+    2300060: Layer:JANELAS 1
+    2300062: Layer:JANELAS 2
+    2300064: Layer:JANELAS 3
+    2300066: Layer:JANELAS 4
+    2300068: Layer:MARMORE DAS JANELAS
+    2300070: Layer:portas
+    2300072: Layer:portas 1
+    2300074: Layer:trinco
+    2300076: Layer:trinco 1
+    2300078: Layer:VIDROS
+    2300080: Layer:VIDROS 1
+    2300082: Layer:VIDROS 2
+    2300084: Layer:VIDROS 3
+    3300000: Layer:--2PAV. AZULEJO
+    3300002: "Layer:--2PAV. CORRIM\xC3O"
+    3300004: Layer:--2PAV. LAJE
+    3300006: Layer:--2PAV. MADEIRA 15X15
+    3300008: Layer:--2PAV. PAREDES EXTERNAS
+    3300010: Layer:--2PAV. PAREDES INTERNAS
+    3300012: Layer:--2PAV. PISO EXTERNO
+    3300014: Layer:--2PAV. PISO INERNO
+    3300016: Layer:--2PAV. REVESTIMENTO INTERNO
+    3300018: Layer:--GRAMA
+    3300020: Layer:--TELHADO NIVEL 1 MADEIRA 1
+    3300022: Layer:--TELHADO NIVEL 1 TELHA
+    3300024: Layer:--TELHADO NIVEL 1 TELHA 1
+    3300026: Layer:--TELHADO NIVEL 1 TELHA 3
+    3300028: Layer:--TELHADO NIVEL 2 MADEIRA
+    3300030: Layer:--TELHADO NIVEL 2 MADEIRA 1
+    3300032: Layer:--TELHADO NIVEL 2 TELHAS
+    3300034: Layer:--TELHADO NIVEL 2 TELHAS 1
+    3300036: "Layer:--TELHADO PAREDES OIT\xC3O"
+    3300038: Layer:--TERREO AZULEJO
+    3300040: "Layer:--TERREO CORRIM\xC3O"
+    3300042: Layer:--TERREO ESCADA
+    3300044: "Layer:--TERREO FUNDA\xC7\xC3O"
+    3300046: Layer:--TERREO LAJE
+    3300048: Layer:--TERREO PAREDES EXTERNAS
+    3300050: Layer:--TERREO PAREDES INTERNAS
+    3300052: Layer:--TERREO PISO EXTERNO
+    3300054: Layer:--TERREO PISO INTERNO
+    3300056: Layer:--TERREO REVESTIMENTO INERNO
+    3300058: Layer:JANELAS
+    3300060: Layer:JANELAS 1
+    3300062: Layer:JANELAS 2
+    3300064: Layer:JANELAS 3
+    3300066: Layer:JANELAS 4
+    3300068: Layer:MARMORE DAS JANELAS
+    3300070: Layer:portas
+    3300072: Layer:portas 1
+    3300074: Layer:trinco
+    3300076: Layer:trinco 1
+    3300078: Layer:VIDROS
+    3300080: Layer:VIDROS 1
+    3300082: Layer:VIDROS 2
+    3300084: Layer:VIDROS 3
+    4300000: Layer:--TERREO PAREDES EXTERNAS
+    4300002: Layer:--TERREO AZULEJO
+    4300004: Layer:--TERREO PAREDES INTERNAS
+    4300006: Layer:--2PAV. PAREDES EXTERNAS
+    4300008: Layer:--2PAV. PAREDES INTERNAS
+    4300010: Layer:--2PAV. AZULEJO
+    4300012: Layer:--2PAV. LAJE
+    4300014: Layer:--TERREO ESCADA
+    4300016: Layer:--TERREO PISO INTERNO
+    4300018: Layer:--TERREO REVESTIMENTO INERNO
+    4300020: "Layer:--TERREO CORRIM\xC3O"
+    4300022: Layer:--TERREO LAJE
+    4300024: Layer:--TERREO PISO EXTERNO
+    4300026: "Layer:--TERREO FUNDA\xC7\xC3O"
+    4300028: Layer:--2PAV. REVESTIMENTO INTERNO
+    4300030: "Layer:--2PAV. CORRIM\xC3O"
+    4300032: Layer:--2PAV. PISO EXTERNO
+    4300034: Layer:--2PAV. PISO INERNO
+    4300036: Layer:--TELHADO NIVEL 1 MADEIRA
+    4300038: Layer:--TELHADO NIVEL 1 TELHA
+    4300040: Layer:--TELHADO NIVEL 1 TELHA
+    4300042: Layer:--TELHADO NIVEL 1 TELHA
+    4300044: Layer:--TELHADO NIVEL 2 MADEIRA
+    4300046: Layer:--TELHADO NIVEL 2 TELHAS
+    4300048: Layer:--TELHADO NIVEL 2 TELHAS
+    4300050: Layer:--2PAV. MADEIRA 15X15
+    4300052: "Layer:--TELHADO PAREDES OIT\xC3O"
+    4300054: Layer:JANELAS
+    4300056: Layer:VIDROS
+    4300058: Layer:VIDROS
+    4300060: Layer:JANELAS
+    4300062: Layer:VIDROS
+    4300064: Layer:JANELAS
+    4300066: Layer:MARMORE DAS JANELAS
+    4300068: Layer:JANELAS
+    4300070: Layer:VIDROS
+    4300072: Layer:JANELAS
+    4300074: Layer:trinco
+    4300076: Layer:portas
+    4300078: Layer:trinco
+    4300080: Layer:portas
+    4300082: Layer:--GRAMA
+    4300084: Layer:--TELHADO NIVEL 2 MADEIRA
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
